@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+
+.h{
+    color: azure;
+    background-color: rgb(74, 130, 179);
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+button{
+    color: aliceblue;
+    background-color: blueviolet;
+    font-size: large;
+}
+
+.no{
+    padding: 5px;
+    font-size: 15px;
+    color: whitesmoke;
+    background-color: rgb(139, 101, 173);
+}
+
+#status{
+    color: azure;
+    background-color: rgb(123, 123, 251);
+    font-size: 15px;
+    padding: 5px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(134, 120, 120);
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 5px rgb(166, 166, 166);
+}
